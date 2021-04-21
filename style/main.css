@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     height: 100vh;
     background:linear-gradient(120deg, #C0DDF1, #1B3C5D, #254563); ;
@@ -77,3 +81,4 @@ login_reset{
     text-decoration: none;
     
 }
+
